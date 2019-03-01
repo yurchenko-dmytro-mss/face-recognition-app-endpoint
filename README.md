@@ -1,5 +1,4 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+# face-recognition-app-endpoint
 
 1. Clone this repo
 2. Run `npm install`
